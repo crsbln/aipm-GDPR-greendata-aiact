@@ -1,0 +1,11 @@
+[project]
+name = "aipm-gdpr-greendata-aiact"
+version = "0.1.0"
+description = "Notebook lessons on GDPR, green data practices, and the EU AI Act."
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29",
+]
